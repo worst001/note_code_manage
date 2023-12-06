@@ -37,7 +37,7 @@
 
 [Git简明教程](Git/Git简明教程.md)
 
-[尚硅谷Git教程](Git/git.pdf)
+[尚硅谷Git教程](Git/Direction.md)
 
 [常用命令清单](Git/常用Git命令清单.md)
 
