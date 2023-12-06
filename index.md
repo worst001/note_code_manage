@@ -1,3 +1,14 @@
+<!-- PROJECT SHIELDS -->
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![Stargazers][stars-shield]][stars-url]
+<!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
+
+<!-- PROJECT LOGO -->
+
 # 代码管理与发布
 
 ## 基本概念
@@ -40,6 +51,8 @@
 [尚硅谷Git教程](Git/Direction.md)
 
 [常用命令清单](Git/常用Git命令清单.md)
+
+[如何在Github上写出漂亮的Readme](Git/如何在github上写出漂亮的readme.md)
 
 [Gitlab](https://www.bookstack.cn/read/gitlab-doc-zh/README.md)
 
@@ -216,3 +229,18 @@ Ansible是一种开源的自动化工具，用于配置管理、应用程序部�
     + Ansible拥有丰富的模块库和活跃的社区支持。官方提供了大量的核心模块，同时社区也贡献了许多自定义模块和Playbooks，可以满足各种不同场景的需求。
 + 可扩展性：
     + Ansible具有良好的可扩展性，可以轻松地扩展到数千台远程主机。它支持分组、变量和条件控制等功能，使得管理大规模基础架构变得更加简单。
+
+
+
+<!-- links -->
+[your-project-path]:shaojintian/Best_README_template
+[contributors-shield]: https://img.shields.io/github/contributors/worst001/mkdocs_code_manage.svg?style=flat-square
+[contributors-url]: https://github.com/worst001/mkdocs_code_manage/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/worst001/mkdocs_code_manage.svg?style=flat-square
+[forks-url]: https://github.com/worst001/mkdocs_code_manage/network/members
+[stars-shield]: https://img.shields.io/github/stars/worst001/mkdocs_code_manage.svg?style=social
+[stars-url]: https://github.com/worst001/mkdocs_code_manage/stargazers
+[issues-shield]: https://img.shields.io/github/issues/worst001/mkdocs_code_manage.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/worst001/mkdocs_code_manage.svg
+[license-shield]: https://img.shields.io/github/license/worst001/mkdocs_code_manage.svg?style=flat-square
+[license-url]: https://github.com/worst001/mkdocs_code_manage/blob/main/LICENSE.txt
