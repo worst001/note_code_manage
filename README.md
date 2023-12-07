@@ -57,7 +57,6 @@
 + [Git简明教程](Git/Git简明教程.md)
 + [尚硅谷Git教程](Git/git.pdf)
 + [常用命令清单](Git/常用Git命令清单.md)
-+ [如何在Github上写出漂亮的Readme](Git/如何在github上写出漂亮的readme.md)
 + [Gitlab](https://www.bookstack.cn/read/gitlab-doc-zh/README.md)
 
 
