@@ -90,10 +90,6 @@
 + [Appium](https://appium.io/docs/zh/2.1/)
 
 
-## Ansible
-
-+ [Ansible](https://cn-ansibledoc.readthedocs.io/zh-cn/latest/)
-
 
 -------------------
 
