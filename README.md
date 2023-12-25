@@ -163,6 +163,8 @@
 
 [https://github.com/appium/appium](https://github.com/appium/appium)
 
+[https://openai.com/chatgpt](https://openai.com/chatgpt)
+
 <p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
 <!-- links -->
