@@ -202,13 +202,13 @@ Appium是一种开源的自动化测试框架，专门用于移动应用程序�
 
 <!-- links -->
 [your-project-path]:shaojintian/Best_README_template
-[contributors-shield]: https://img.shields.io/github/contributors/worst001/mkdocs_code_manage.svg?style=flat-square
-[contributors-url]: https://github.com/worst001/mkdocs_code_manage/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/worst001/mkdocs_code_manage.svg?style=flat-square
-[forks-url]: https://github.com/worst001/mkdocs_code_manage/network/members
-[stars-shield]: https://img.shields.io/github/stars/worst001/mkdocs_code_manage.svg?style=social
-[stars-url]: https://github.com/worst001/mkdocs_code_manage/stargazers
-[issues-shield]: https://img.shields.io/github/issues/worst001/mkdocs_code_manage.svg?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/worst001/mkdocs_code_manage.svg
-[license-shield]: https://img.shields.io/github/license/worst001/mkdocs_code_manage.svg?style=flat-square
-[license-url]: https://github.com/worst001/mkdocs_code_manage/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/worst001/note_code_manage.svg?style=flat-square
+[contributors-url]: https://github.com/worst001/note_code_manage/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/worst001/note_code_manage.svg?style=flat-square
+[forks-url]: https://github.com/worst001/note_code_manage/network/members
+[stars-shield]: https://img.shields.io/github/stars/worst001/note_code_manage.svg?style=social
+[stars-url]: https://github.com/worst001/note_code_manage/stargazers
+[issues-shield]: https://img.shields.io/github/issues/worst001/note_code_manage.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/worst001/note_code_manage.svg
+[license-shield]: https://img.shields.io/github/license/worst001/note_code_manage.svg?style=flat-square
+[license-url]: https://github.com/worst001/note_code_manage/blob/main/LICENSE.txt
